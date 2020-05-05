@@ -1,5 +1,5 @@
 # Practica-Calculadora
-Ejercicio para asignatura Desarrollo de Interfaces, LenguajeJava:
+Ejercicio para asignatura Desarrollo de Interfaces, Lenguaje Java:
 
 Se pide realizar en swing una calculadora con las siguientes operaciones
 
