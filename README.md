@@ -8,6 +8,7 @@ Se pide realizar en swing una calculadora con las siguientes operaciones
 - Multiplicar dos números
 - Dividir dos números
 - Realizar el cuadrado de un número
-L
-a calculadora debe poder borrar si el usuario se equivoca al introducir un dato.
+
+La calculadora debe poder borrar si el usuario se equivoca al introducir un dato.
+
 La interfaz debe cumplir los requisitos estudiados de accesibilidad y usabilidad.
